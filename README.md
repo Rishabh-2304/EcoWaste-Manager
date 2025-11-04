@@ -33,7 +33,7 @@
 - **Progress Tracking** - Personal and community environmental impact
 - **Social Features** - Community challenges and achievements
 
-## 📸 Screenshots
+## Sections
 
 ### 🏠 Homepage - Hero Section
 *Modern hero section with animated elements and glassmorphism design*
