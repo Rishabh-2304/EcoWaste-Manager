@@ -8,9 +8,6 @@
 
 > **Transform your city with AI-powered waste sorting, route optimization, and gamified recycling programs. Join 12.5K+ users making a difference.**
 
-## 🚀 Live Demo
-
-🌐 **[View Live Demo](https://your-username.github.io/smart-waste-frontend)**
 
 ## ✨ Features
 
