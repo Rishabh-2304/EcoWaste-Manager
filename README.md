@@ -36,27 +36,21 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage - Hero Section
-![Homepage Hero](./screenshots/homepage-hero.png)
 *Modern hero section with animated elements and glassmorphism design*
 
 ### 🗺️ Interactive Hubs Map
-![Interactive Map](./screenshots/hubs-interactive-map.png)  
 *Real-time hub locations with status indicators and detailed information*
 
 ### 📊 Analytics Dashboard
-![Analytics Dashboard](./screenshots/dashboard-analytics.png)
 *Comprehensive environmental impact tracking and insights*
 
 ### 📱 Mobile Experience  
-![Mobile Design](./screenshots/mobile-responsive.png)
 *Fully responsive design optimized for mobile devices*
 
 ### 🎯 Smart Sorting Assistant
-![AI Sorting](./screenshots/ai-waste-sorting.png)
 *AI-powered waste classification with real-time camera detection*
 
 ### 🏆 Rewards & Gamification
-![Rewards System](./screenshots/rewards-gamification.png)
 *Engaging gamification with points, badges, and achievements*
 
 ## 🛠️ Tech Stack
